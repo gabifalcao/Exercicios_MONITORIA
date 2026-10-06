@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+\\codigo exemplo para ver a sintaxe
 public class aquecimento { 
     public static void main(String[] args) {
         Scanner entrada = new Scanner(System.in); 
