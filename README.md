@@ -2,10 +2,8 @@
 resposta dos exercicios da lista que eu passei para alunos que foram na monitoria
 
 # Monitoria de Programação e Algoritmos - Lista de Exercícios
-    AVISO:
-Desenvolva todos os programas dentro do método public static void main(String[] args).
-Utilize a classe Scanner para entrada de dados.
-Não é necessário criar classes adicionais ou métodos.
+    AVISO: Desenvolva todos os programas dentro do método public static void main(String[] args). Utilize a classe Scanner para entrada de dados. Não é necessário criar classes adicionais ou métodos.
+
 _# Nível 1: Fixação e Operações Básicas_
 # Exercício 1: Calculadora de IMC Simplificada
 Escreva um programa que leia o peso (em kg, como valor decimal) e a altura (em metros, como valor decimal) de uma pessoa. Calcule o IMC usando a fórmula IMC = peso / (altura * altura) e exiba o resultado.
