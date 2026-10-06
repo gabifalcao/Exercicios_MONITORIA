@@ -4,16 +4,16 @@ resposta dos exercicios da lista que eu passei para alunos que foram na monitori
 # Monitoria de Programação e Algoritmos - Lista de Exercícios
     AVISO: Desenvolva todos os programas dentro do método public static void main(String[] args). Utilize a classe Scanner para entrada de dados. Não é necessário criar classes adicionais ou métodos.
 
-_# Nível 1: Fixação e Operações Básicas_
-# Exercício 1: Calculadora de IMC Simplificada
+# Nível 1: Fixação e Operações Básicas
+## Exercício 1: Calculadora de IMC Simplificada
 Escreva um programa que leia o peso (em kg, como valor decimal) e a altura (em metros, como valor decimal) de uma pessoa. Calcule o IMC usando a fórmula IMC = peso / (altura * altura) e exiba o resultado.
 
-# Exercício 2: Avaliação de Polinômio de 3º Grau
+## Exercício 2: Avaliação de Polinômio de 3º Grau
 Escreva um programa que leia um valor decimal para a variável x. O programa deve calcular e exibir o valor resultante do seguinte polinômio de 3º grau:
 y = 3*x^3 - 5*x^2 + 2*x - 7
 Dica: Lembre-se da ordem de precedência dos operadores ou utilize Math.pow(x, n).
 
-# Exercício 3: Relatório de Notas com Formatação de Strings
+## Exercício 3: Relatório de Notas com Formatação de Strings
 Escreva um programa que leia o nome do aluno (String), o nome da disciplina (String) e três notas decimais (double). Calcule a média aritmética e exiba o seguinte relatório formatado utilizando System.out.printf:========================================
 
 RELATÓRIO ACADÊMICO
@@ -36,24 +36,24 @@ Média Final: [Média com 2 casas decimais]
 
 ========================================
 
-# Exercício 4: Verificador de Par ou Ímpar
+## Exercício 4: Verificador de Par ou Ímpar
 Escreva um programa que leia um número inteiro digitado pelo usuário e utilize o operador de resto (%) para determinar se o número é par ou ímpar. Exiba uma mensagem informando o resultado.
 
-# Exercício 5: Múltiplos Entre Dois Números
+## Exercício 5: Múltiplos Entre Dois Números
 Escreva um programa que leia dois números inteiros. O programa deve verificar se o primeiro número é múltiplo do segundo (ou seja, se a divisão do primeiro pelo segundo tem resto igual a zero) e exibir a mensagem correspondente.
 
-_# Nível 2: Condicionais e Comparações (if / else)_
-# Exercício 6: Maior e Menor entre Três Valores
+# Nível 2: Condicionais e Comparações (if / else)_
+## Exercício 6: Maior e Menor entre Três Valores
 Escreva um programa que receba três números inteiros e determine e exiba:
 
 O maior número digitado.
 O menor número digitado.
 A média aritmética dos três números.
 
-# Exercício 7: Verificação de Triângulo Válido
+## Exercício 7: Verificação de Triângulo Válido
 Leia três valores inteiros representando os lados de um triângulo (A, B e C). Um triângulo só é válido se a soma de dois lados for estritamente maior que o terceiro lado (A + B > C, A + C > B e B + C > A). Exiba se os lados formam ou não um triângulo válido.
 
-# Exercício 8: Validação de Acesso a Empréstimo
+## Exercício 8: Validação de Acesso a Empréstimo
 Uma instituição financeira concede empréstimos bancários apenas se:
 
 O valor da parcela foi menor ou igual a 30% do salário bruto do cliente.
@@ -69,8 +69,8 @@ Acima de 10 unidades: 20% de desconto.
 
 Escreva um programa que leia o preço unitário do produto e a quantidade comprada. O programa deve calcular e exibir o valor total bruto, o valor do desconto aplicado e o valor final a pagar.
 
-_# Nível 3: Lógica Estruturada e switch_
-# Exercício 10: Menu de Operações Matemáticas
+# Nível 3: Lógica Estruturada e switch_
+## Exercício 10: Menu de Operações Matemáticas
 Escreva um programa que leia dois números decimais (double) e apresente o seguinte menu no console:1 - Somar
 
 2 - Subtrair
